@@ -2,7 +2,7 @@ import memeMaker from '@erickwendel/meme-maker';
 
 const options = {
     image: './img/macaco.jpg', // Required
-    outfile: './output/macaco.meme.png', // Required
+    outfile: './img/macaco.meme.png', // Required
     topText: 'TOP TEXT', // Required
     bottomText: 'BOTTOM TEXT', // Optional
 };
